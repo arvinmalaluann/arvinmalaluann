@@ -41,7 +41,6 @@ If the flow is wrong, everything else will break later.
 I don’t treat data sources equally:
 
 * **SharePoint** → fast to build, good for small to medium scale
-* **Dataverse** → used when scale and performance demand it
 * **Collections** → temporary session storage, not a database
 
 Choosing the wrong one early leads to limitations later.
