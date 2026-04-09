@@ -143,24 +143,7 @@ Everything is designed for **clarity and maintainability**.
 
 ---
 
-## ⏱️ When Is It “Done”?
-
-Not everything should be built immediately.
-
-I evaluate:
-
-* effort vs impact
-* time to build vs time saved
-
-Example:
-
-> 3 months build for 10 hours/month savings = not priority
-
-Good solutions are not just functional—they are **worth building**.
-
----
-
-## 💬 My Take on “Basta Gumana”
+## 💬 My Take on “Basta Gumana” or in english "As long as it works"
 
 We all say it—but it’s not the goal.
 
